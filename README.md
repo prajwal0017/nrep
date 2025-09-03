@@ -3,6 +3,7 @@
 *read it an enjoy*
 
 ## there are 3 files 
-- addproducts 
-- db.php
+- addproducts  
+  ![addproducts](images/image.png)
+- db.php  
 - edit.php
